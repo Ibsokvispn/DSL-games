@@ -3,29 +3,29 @@
 - Définir la taille de la grille
     - Carré de $x * x$
     - Autres formes ?
-    - effet des cases ?
-- nombre de joueurs
-- créer les pions existant
-    - types de pieces
-    - nombre de pieces
-- option pour jouer : 
-    - placer un pion
-    - passer son tour 
-    - enlever un pion
-- regles de placement :
-    - case vide
-    - pion autorisé selon le joueur
-    - Selection du pion autorisé
-    - nombre de pions à chaque tour
+    - Effet des cases ?
+- Nombre de joueurs
+- Créer les pions existant
+    - Types de pieces
+    - Nombre de pieces
+- Option pour jouer : 
+    - Placer un pion
+    - Passer son tour 
+    - Enlever un pion
+- Règles de placement :
+    - Case vide
+    - Pion autorisé selon le joueur
+    - Sélection du pion autorisé
+    - Nombre de pions à chaque tour
     - Condition de fin de tour 
-        - (jouer le pion)
-- phase Apres placement:
-    - deplacement de pions
-    - enlever
+        - (Jouer le pion)
+- Phase après placement:
+    - Déplacement de pions
+    - Enlever
     - ... *(même chose qu'avant placement)*
-- regles de fin
-    - aligner des pions
-        - combien de pions
-        - caractéristiques des pions à aligner (X ou O, ou couleurs, forme, etc)
-- condition de victoire
-    - quel joueur à aligner les pions (s'il y en a)
+- Règles de fin
+    - Aligner des pions
+        - Combien de pions
+        - Caractéristiques des pions à aligner (X ou O, ou couleurs, forme, etc)
+- Condition de victoire
+    - Quel joueur à aligner les pions (s'il y en a)
